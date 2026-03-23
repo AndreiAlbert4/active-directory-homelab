@@ -61,7 +61,7 @@ The diagram shows the full lab topology including the switch connecting all VMs,
 - Deployed **Splunk** on Ubuntu server (`192.168.10.10`)
 - Installed **Splunk Universal Forwarder** on both Windows machines to forward logs to Splunk
 - Installed **Sysmon** on both Windows machines for enriched event logging (process creation, network connections, etc.)
-- Installed **Atomic Red Team** on the Windows 10 machine for threat simulation
+- Installed **Atomic Red Team** on the Windows 10 machine for future threat simulation
 
 ---
 
