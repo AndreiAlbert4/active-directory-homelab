@@ -126,17 +126,6 @@ index=endpoint EventCode=4624
 
 ---
 
----
-
-## Planned Future Attacks
-
-- [ ] Pass-the-Hash (Mimikatz)
-- [ ] Kerberoasting
-- [ ] LLMNR Poisoning (Responder)
-- [ ] Privilege Escalation
-
----
-
 ## References
 
 - [Splunk Documentation](https://docs.splunk.com)
